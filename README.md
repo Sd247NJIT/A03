@@ -1,5 +1,5 @@
 # A03
-<DOCTYPE html>
+<!DOCTYPE html>
 ##Step-by-step tutorial on setting up git/webstorm/github:
 
 Download these softwares:
