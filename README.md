@@ -21,9 +21,9 @@ Github - https://github.com/join
   
   - Go down to:
     <br>
-         -_Update Method_ and select **Merge** to avoid **merge conflicts**
+         - _Update Method_ and select **Merge** to avoid **merge conflicts**
     <br>
-         -_Explicitly check for incoming **commits** on **remotes**_ and select Auto, click OK
+         - _Explicitly check for incoming **commits** on **remotes**_ and select Auto, click OK
 
 ### Creating and Importing the **Repository**: ###
 
@@ -40,7 +40,7 @@ Github - https://github.com/join
 
 ### Creating Repository on webstorm: ###
 
--Open webstorm
+- Open webstorm
   - Open a new project and choose VCS from main menu
   
   - Create new repository 
