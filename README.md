@@ -88,19 +88,15 @@ Webstorm - https://www.jetbrains.com/community/education/#students
 References:
 
 - Gienow, Michelle. “Working with Branches in Git and Github.” The New Stack, 18 May 2018. 
-<br>
 URL: https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/#:~:text=:A%20branch%20is%20essentially%20is,into%2C%20and%20is%20called%20master 
 
 - “Git Merge.” Bit Bucket. No date. 
-<br>
 URL: https://www.atlassian.com/git/tutorials/using-branches/git-merge#:~:text=Merging%20is%20Git's%20way%20of,merge%20into%20the%20current%20branch 
 
 - Jetbrains. “Set up a Git repository.” 14 September 2021. 
-<br>
 URL: https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#ignore-files  
 
 - Jetbrains. “Manage projects hosted on GitHub.” 08 March 2021. 
-<br>
 URL: https://www.jetbrains.com/help/webstorm/manage-projects-hosted-on-github.html
 
 - Hendela, Arthur H. “Introduction to Github and Webstorm.” NJIT. Powerpoint presentation.
