@@ -25,7 +25,7 @@ Github - https://github.com/join
     <br>
          -_Explicitly check for incoming **commits** on **remotes**_ and select Auto, click OK
 
-Creating and Importing the **Repository**:
+### Creating and Importing the **Repository**: ###
 
 - Open **Github**
   - On the top right corner, click the “+” sign and select “New **Repository**”
