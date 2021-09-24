@@ -19,9 +19,9 @@ Github - https://github.com/join
   
     a) On top, go on _Path to Git Executable_ and make sure the path is entered to git.exe (it should already be auto-detected on your local file)
       - Go down to:
-        - _Update Method_ and select **Merge** to avoid **merge conflicts**
+         _Update Method_ and select **Merge** to avoid **merge conflicts**
         
-        - _Explicitly check for incoming **commits** on **remotes**_ and select Auto
+        _Explicitly check for incoming **commits** on **remotes**_ and select Auto
         
-        - Click Ok. 
+         Click Ok. 
 </html> 
