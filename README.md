@@ -4,7 +4,7 @@
 ##Step-by-step tutorial on setting up git/webstorm/github:
 
 Download these softwares:
-
+<br>
 Webstorm - https://www.jetbrains.com/community/education/#students
 
 Git - https://git-scm.com/downloads
