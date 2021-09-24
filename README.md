@@ -53,6 +53,7 @@ Github - https://github.com/join
   - On webstorm, go on the Git tab
   
     - Scroll down to Git and click Clone
+ 
            - Enter the URL of the repository within version control (Note: make sure you are logged into Github)
 
 
