@@ -25,3 +25,10 @@ Github - https://github.com/join
     <br>
          -_Explicitly check for incoming **commits** on **remotes**_ and select Auto, click OK
 
+Creating and Importing the **Repository**:
+-Open **Github**
+-On the top right corner, click the “+” sign and select “New **Repository**”
+  -Include **Repository** name
+  -Make it public
+  -Select, Add a README file
+  -Click Create **Repository**.
