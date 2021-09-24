@@ -12,7 +12,7 @@ Git https://git-scm.com/downloads
 ### Setup up the account: ###
 <br>
 Github https://github.com/join 
-<br>
+
 ### To connect Github & webstorm: ###
 - Open Webstorm
   - Go to system preferences → select version control → **Git**
