@@ -56,5 +56,10 @@ Github - https://github.com/join
  
     - Enter the URL of the repository within version control (Note: make sure you are logged into Github)
 
+##To make a new project:##
+
+- Open Webstorm
+
+  -File → New → scroll to HTML file and click it
 
   
