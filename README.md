@@ -1,4 +1,5 @@
 # A03
+<DOCTYPE html>
 ##Step-by-step tutorial on setting up git/webstorm/github:
 
 Download these softwares:
@@ -23,3 +24,4 @@ Github - https://github.com/join
         - _Explicitly check for incoming **commits** on **remotes**_ and select Auto
         
         - Click Ok. 
+</html> 
