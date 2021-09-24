@@ -85,7 +85,7 @@ Webstorm - https://www.jetbrains.com/community/education/#students
 - **Remote:** version of the project pushed to git; being stored somewhere else other than the local
 - **Repository:** a project through git terms or a designated folder in local or remote
 
-References:
+### References: ###
 
 - Gienow, Michelle. “Working with Branches in Git and Github.” The New Stack, 18 May 2018. 
   
