@@ -23,6 +23,5 @@ Github - https://github.com/join
     <br>
         - _Update Method_ and select **Merge** to avoid **merge conflicts**
     <br>
-       -_Explicitly check for incoming **commits** on **remotes**_ and select Auto
-     <br>  
-       -Click Ok. 
+       -_Explicitly check for incoming **commits** on **remotes**_ and select Auto, click OK
+
