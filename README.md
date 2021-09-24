@@ -36,7 +36,7 @@ Webstorm - https://www.jetbrains.com/community/education/#students
   
   - Select, Add a README file
   
-  - Click Create **Repository**.
+  - Click _Create **Repository**_.
 
 ### Creating Repository on webstorm: ###
 
@@ -67,4 +67,5 @@ Webstorm - https://www.jetbrains.com/community/education/#students
 - Open a new repository
 
   - Write branches or fetch from a different repo to the current HTML file
+ 
   - Before pushing, write in the _commit message_ then click _commit & push_ and the objects should be synced to **Github**! (Note: commit messages are helpful, especially during collaborations and pull requests on someone else’s repository.)
