@@ -69,3 +69,18 @@ Webstorm - https://www.jetbrains.com/community/education/#students
   - Write branches or fetch from a different repo to the current HTML file
  
   - Before pushing, write in the _commit message_ then click _commit & push_ and the objects should be synced to **Github**! (Note: commit messages are helpful, especially during collaborations and pull requests on someone else’s repository.)
+
+## Glossary: ##
+
+- **Branch**:  sets of code in a box, titled in different names; there can be more than one branch 
+- **Clone**: to make a copy; starts of the same - cannot do anything to pool without a clone
+- **Commit**: to take the objects and put them in a box
+- **Fetch**: downloading objects from a different repository
+- **GIT**: stores code history and tracks files in a local. 
+- **Github**: a platform for using Git
+- **Merge**: to join development histories together and integrate them into one branch
+- **Merge Conflict:** an error that occurs when it’s unable to solve commits
+- **Push:** to ship off the codes 
+- **Pull:** it’s a request that tells others about the changes pushed; essential during collaborations 
+- **Remote:** version of the project pushed to git; being stored somewhere else other than the local
+- **Repository:** a project through git terms or a designated folder in local or remote
