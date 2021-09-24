@@ -27,8 +27,7 @@ Github - https://github.com/join
 
 Creating and Importing the **Repository**:
 -Open **Github**
-
--On the top right corner, click the “+” sign and select “New **Repository**”
+  -On the top right corner, click the “+” sign and select “New **Repository**”
   
   -Include **Repository** name
   
