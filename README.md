@@ -7,15 +7,15 @@
 <br>
 Webstorm - https://www.jetbrains.com/community/education/#students
 <br>
-Git - https://git-scm.com/downloads
+**Git** - https://git-scm.com/downloads
 
 ### Setup up the account: ###
 <br>
-Github - https://github.com/join 
+**Github** - https://github.com/join 
 
 ### To connect Github & webstorm: ###
 - Open Webstorm
-  - Go to system preferences → select version control → Git
+  - Go to system preferences → select version control → **Git**
   
   - On top, go on _Path to Git Executable_ and make sure the path is entered to git.exe (it should already be auto-detected on your local file)
   
@@ -43,18 +43,18 @@ Github - https://github.com/join
 - Open webstorm
   - Open a new project and choose VCS from main menu
   
-  - Create new repository 
+  - Create new **repository** 
   
   - Give it a title 
   
   - Click ok.
 
 ### Importing a new repository: ###
-  - On webstorm, go on the Git tab
+  - On webstorm, go on the **Git** tab
   
-      - Scroll down to Git and click Clone
+      - Scroll down to **Git** and click **Clone**
  
-      - Enter the URL of the repository within version control (Note: make sure you are logged into Github)
+      - Enter the URL of the **repository** within version control (Note: make sure you are logged into **Github**)
 
 ### To make a new project: ###
 
@@ -62,4 +62,9 @@ Github - https://github.com/join
 
   - File → New → scroll to HTML file and click it
 
-  
+### How to push from webstorm to github: ###
+
+- Open a new repository
+
+  - Write branches or fetch from a different repo to the current HTML file
+  - Before pushing, write in the _commit message_ then click _commit & push_ and the objects should be synced to **Github**! (Note: commit messages are helpful, especially during collaborations and pull requests on someone else’s repository.)
