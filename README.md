@@ -18,7 +18,7 @@ Github - https://github.com/join
   - Go to system preferences → select version control → Git
   
     a) On top, go on _Path to Git Executable_ and make sure the path is entered to git.exe (it should already be auto-detected on your local file)
-    <br>
+ 
     b) Go down to:
         - _Update Method_ and select **Merge** to avoid **merge conflicts**
         
