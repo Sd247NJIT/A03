@@ -1,6 +1,5 @@
 # A03
-<!DOCTYPE html>
-##Step-by-step tutorial on setting up git/webstorm/github:
+#Step-by-step tutorial on setting up git/webstorm/github:
 
 Download these softwares:
 <br>
@@ -25,4 +24,3 @@ Github - https://github.com/join
         
          Click Ok. 
 
-</html> 
