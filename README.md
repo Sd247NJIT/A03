@@ -37,4 +37,16 @@ Github - https://github.com/join
   - Select, Add a README file
   
   - Click Create **Repository**.
+
+### Creating Repository on webstorm: ###
+
+-Open webstorm
+  - Open a new project and choose VCS from main menu
+  
+  - Create new repository 
+  
+  - Give it a title 
+  
+  - Click ok.
+
   
