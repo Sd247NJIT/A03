@@ -52,14 +52,14 @@ Github - https://github.com/join
 ### Importing a new repository: ###
   - On webstorm, go on the Git tab
   
-    - Scroll down to Git and click Clone
+      - Scroll down to Git and click Clone
  
-    - Enter the URL of the repository within version control (Note: make sure you are logged into Github)
+      - Enter the URL of the repository within version control (Note: make sure you are logged into Github)
 
-##To make a new project:##
+### To make a new project: ###
 
 - Open Webstorm
 
-  -File → New → scroll to HTML file and click it
+  - File → New → scroll to HTML file and click it
 
   
