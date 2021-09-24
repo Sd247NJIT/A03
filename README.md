@@ -7,11 +7,11 @@
 <br>
 Webstorm https://www.jetbrains.com/community/education/#students
 <br>
-**Git** https://git-scm.com/downloads
+Git https://git-scm.com/downloads
 
 ### Setup up the account: ###
 <br>
-**Github** https://github.com/join 
+Github https://github.com/join 
 
 ### To connect Github & webstorm: ###
 - Open Webstorm
