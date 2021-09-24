@@ -1,7 +1,7 @@
 # A03
 <!DOCTYPE html>
 
-##Step-by-step tutorial on setting up git/webstorm/github:
+#Step-by-step tutorial on setting up git/webstorm/github:
 
 Download these softwares:
 <br>
@@ -13,7 +13,7 @@ Setup up the account:
 <br>
 Github - https://github.com/join 
 
-##To connect Github & webstorm:
+#To connect Github & webstorm:
 - Open Webstorm
   - Go to system preferences → select version control → Git
   
@@ -22,7 +22,6 @@ Github - https://github.com/join
     b) Go down to:
         - _Update Method_ and select **Merge** to avoid **merge conflicts**
         
-        - _Explicitly check for incoming **commits** on **remotes**_ and select Auto
+       -_Explicitly check for incoming **commits** on **remotes**_ and select Auto
         
-        - Click Ok. 
-</html>
+       -Click Ok. 
