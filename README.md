@@ -54,7 +54,7 @@ Github - https://github.com/join
   
     - Scroll down to Git and click Clone
  
-           - Enter the URL of the repository within version control (Note: make sure you are logged into Github)
+    - Enter the URL of the repository within version control (Note: make sure you are logged into Github)
 
 
   
