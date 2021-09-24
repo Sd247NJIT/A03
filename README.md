@@ -1,6 +1,2 @@
 # A03
-
-hello sherwin
-hellllllllllooooo
-commiting
-gghhhh
+Step-by-step tutorial on setting up git/webstorm/github:
