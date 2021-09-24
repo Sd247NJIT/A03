@@ -88,7 +88,7 @@ Webstorm - https://www.jetbrains.com/community/education/#students
 References:
 
 - Gienow, Michelle. “Working with Branches in Git and Github.” The New Stack, 18 May 2018. 
-URL: https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/#:~:text=:A%20branch%20is%20essentially%20is,into%2C%20and%20is%20called%20master 
+  URL: https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/#:~:text=:A%20branch%20is%20essentially%20is,into%2C%20and%20is%20called%20master 
 
 - “Git Merge.” Bit Bucket. No date. 
 URL: https://www.atlassian.com/git/tutorials/using-branches/git-merge#:~:text=Merging%20is%20Git's%20way%20of,merge%20into%20the%20current%20branch 
