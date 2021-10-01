@@ -23,7 +23,4 @@ Github - https://github.com/join
         
         - _Explicitly check for incoming **commits** on **remotes**_ and select Auto
         
-        
-- Click Ok. 
-
--test
+        - Click Ok. 
